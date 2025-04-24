@@ -1,3 +1,5 @@
 .venv/
-animal_classifier_model/
+saved_model/
 bukti inference/
+tfjs_model/
+tflite/
